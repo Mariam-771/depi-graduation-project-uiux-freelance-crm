@@ -23,7 +23,7 @@ The goal is to design a web and mobile experience that helps freelancers in Egyp
 - **Kerilos Galal**
 - **Jacy malak**
 - **Mustafa Elsharkawy**
-- **Mariam Mohamed**
+- **Mariam Rakha**
 
 ---
 
