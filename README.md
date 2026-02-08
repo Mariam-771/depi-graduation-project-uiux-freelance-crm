@@ -18,7 +18,7 @@ The goal is to design a web and mobile experience that helps freelancers in Egyp
 ---
 
 ## 👤 Team Members
-- **Mariam Adel** 
+- **Mariam Adel** -Team leader
 - **Farah Hamza**
 - **Kerilos Galal**
 - **Jacy malak**
