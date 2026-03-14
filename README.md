@@ -32,6 +32,7 @@ The goal is to design a web and mobile experience that helps freelancers in Egyp
 ---
 
 ## 🔗 Project Links
+-FigJam: https://www.figma.com/board/9aPMDyohlxjlqh0bF8llvk/Grad-Project?node-id=47-160&t=CywLYbzdGmxCx3Cz-1
 
 ---
 
