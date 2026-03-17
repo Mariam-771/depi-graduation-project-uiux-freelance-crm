@@ -1,49 +1,39 @@
-# DEPI Graduation Project – Freelance CRM UI/UX Design
+# Finn: Freelance CRM – DEPI Graduation Project
 
 ## 📝 Project Description
-This project explores the UI/UX design process for a freelancer client management platform.
+**Finn** is a comprehensive client management platform designed specifically for the Egyptian freelance market. This project explores the end-to-end UI/UX design process to create a web and mobile experience that helps freelancers manage clients, projects, and professional communication more efficiently. 
 
-The goal is to design a web and mobile experience that helps freelancers in Egypt manage their clients, projects, and communication more efficiently, starting from user research and problem definition through wireframing and prototyping.
+The project covers the full design lifecycle: from deep user research and problem definition to high-fidelity wireframing and interactive prototyping.
 
-> 🚧 Project Status: In progress (Research & Ideation phase)
-
----
+**🚧 Project Status:** In progress (Research & Ideation phase)
 
 ## 🎯 Project Objectives
-- Understand the challenges freelancers face when managing clients
-- Design a simple and intuitive client management experience
-- Create a scalable UI system suitable for web and mobile platforms
-- Apply a full UI/UX design process as part of the DEPI graduation requirements
-
----
+* **Understand local challenges:** Identify the specific pain points Egyptian freelancers face in client management.
+* **Streamline Workflow:** Design a simple, intuitive experience for managing the "business side" of freelancing.
+* **Scalable UI System:** Create a cohesive design system optimized for both web and mobile platforms.
+* **Academic Excellence:** Apply a rigorous UI/UX methodology as part of the DEPI graduation requirements.
 
 ## 👤 Team Members
-- **Mariam Adel** -Team leader
-- **Farah Ahmed**
-- **Kerilos Galal**
-- **Jacy malak**
-- **Mustafa Elsharkawy**
-- **Mariam Mohamed**
-
----
+* **Mariam Adel** – Team Leader
+* **Farah Ahmed**
+* **Kerilos Galal**
+* **Jacy Malak**
+* **Mustafa Elsharkawy**
+* **Mariam Mohamed**
 
 ## 🛠️ Tools Used
-
----
+* **Design & Whiteboarding:** Figma, FigJam
+* **Documentation:** GitHub, [📄 Finn Project Overview (PDF)](https://github.com/Mariam-771/depi-graduation-project-uiux-freelance-crm/blob/main/Finn%20Project%20Overview.pdf)
 
 ## 🔗 Project Links
--FigJam: https://www.figma.com/board/9aPMDyohlxjlqh0bF8llvk/Grad-Project?node-id=47-160&t=CywLYbzdGmxCx3Cz-1
-
----
+* **FigJam Workspace:** [View Board](https://www.figma.com/board/9aPMDyohlxjlqh0bF8llvk/Grad-Project?node-id=47-160&t=CywLYbzdGmxCx3Cz-1)
 
 ## 📂 Repository Structure
 This repository documents the full design process, including:
-- User research & problem definition
-- Personas, user flows, and wireframes
-- Design system and final UI screens
-- Usability testing and iterations
-
----
+1. User Research & Problem Definition
+2. Personas, User Flows, and Wireframes
+3. Design System and Final UI Screens
+4. Usability Testing and Iterations
 
 ## 📌 Notes
-This is a design-focused academic project created for the **DEPI Graduation Program**.
+This is a design-focused academic project created for the **Digital Egypt Pioneers Initiative (DEPI)** Graduation Program.
