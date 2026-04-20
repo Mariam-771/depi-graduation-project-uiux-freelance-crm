@@ -1,0 +1,1 @@
+- FigJam Link contains all the UX details: [Click here to view](https://www.figma.com/board/9aPMDyohlxjlqh0bF81lvk/Grad-Project?node-id=47-160&t=CywLYbzdGmxCx3Cz-1)
