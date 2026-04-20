@@ -14,12 +14,13 @@ The project covers the full design lifecycle: from deep user research and proble
 * **Academic Excellence:** Apply a rigorous UI/UX methodology as part of the DEPI graduation requirements.
 
 ## 👤 Team Members
-* **Mariam Adel** – Team Leader
-* **Farah Ahmed**
-* **Kerilos Galal**
-* **Jacy Malak**
-* **Mustafa Elsharkawy**
-* **Mariam Mohamed**
+* **Mariam Adel** – Team Leader | Competitor Analysis, User Survey, Sketches, and Information Architecture (IA)
+* **Farah Ahmed** – Site Map and Information Architecture (IA)
+* **Kerilos Galal** – Competitor Analysis and Information Architecture (IA)
+* **Mariam Mohamed** – User Persona and Color Palette Selection
+* **Jacy Malak** – SWOT Analysis
+* **Mustafa Elsharkawy** – Empathy Mapping
+
 
 ## 🛠️ Tools Used
 * **Design & Whiteboarding:** Figma, FigJam
