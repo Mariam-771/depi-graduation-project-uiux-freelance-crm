@@ -24,11 +24,13 @@ The project covers the full design lifecycle: from deep user research and proble
 
 ## 🛠️ Tools Used
 * **Design & Whiteboarding:** Figma, FigJam
-* **Documentation:** GitHub, [📄 Finn Project Overview (PDF)](https://github.com/Mariam-771/depi-graduation-project-uiux-freelance-crm/blob/main/Finn%20Project%20Overview.pdf)
+* **Documentation:** GitHub, [📄 Finn Project Description (PDF)](https://github.com/Mariam-771/depi-graduation-project-uiux-freelance-crm/blob/main/Finn%20Project%20Overview.pdf)
 
 ## 🔗 Project Links
 * **FigJam Workspace:** [View Board](https://www.figma.com/board/9aPMDyohlxjlqh0bF8llvk/Grad-Project?node-id=47-160&t=CywLYbzdGmxCx3Cz-1)
-
+* **Website Figma:** [View](https://www.figma.com/design/YR5pbp8Yq9WAAZYSYtdAnC/Finn-Website?node-id=0-1&t=PYur8LKmdhoyr0HN-1)
+* **App Figma:** [View](https://www.figma.com/design/GNSHAKnnCSPfJUsx2ErJVg/Finn-Mobile-App?node-id=18-477&t=Z7CUAjPPStJMx6Y5-1)
+    
 ## 📂 Repository Structure
 This repository documents the full design process, including:
 1. User Research & Problem Definition
