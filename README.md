@@ -30,6 +30,7 @@ The project covers the full design lifecycle: from deep user research and proble
 * **FigJam Workspace:** [View Board](https://www.figma.com/board/9aPMDyohlxjlqh0bF8llvk/Grad-Project?node-id=47-160&t=CywLYbzdGmxCx3Cz-1)
 * **Website Figma:** [View](https://www.figma.com/design/YR5pbp8Yq9WAAZYSYtdAnC/Finn-Website?node-id=0-1&t=PYur8LKmdhoyr0HN-1)
 * **App Figma:** [View](https://www.figma.com/design/GNSHAKnnCSPfJUsx2ErJVg/Finn-Mobile-App?node-id=18-477&t=Z7CUAjPPStJMx6Y5-1)
+* **Website Prototype Video** [View]([https://www.figma.com/design/GNSHAKnnCSPfJUsx2ErJVg/Finn-Mobile-App?node-id=18-477&t=Z7CUAjPPStJMx6Y5-1](https://drive.google.com/file/d/1XP2pxbib_aLDsd7C4RVZk49sZvgZH6Pv/view?usp=sharing))
     
 ## 📂 Repository Structure
 This repository documents the full design process, including:
